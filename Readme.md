@@ -9,3 +9,5 @@ Alterando..
 Alterando arquivo Commited
 
 Estou gostando das aulas de GIT
+
+Nova alteração antees do commit para o GIT...
